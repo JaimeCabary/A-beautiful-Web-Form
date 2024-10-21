@@ -1,5 +1,3 @@
-**README.md**
-
 **Shacabondo Web Form**
 
 This is the code for a Shacabondo web form that allows users to submit their information. 
